@@ -1,0 +1,16 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": true,
+      "externalConsole": false,
+      "cwd": "/Users/VPDiddy/Desktop/C++Projects/Homework/[HW]Debugging_Input_Validation_And_Integer_Overflow_Starter_Code",
+      "program": "/Users/VPDiddy/Desktop/C++Projects/Homework/[HW]Debugging_Input_Validation_And_Integer_Overflow_Starter_Code/build/Debug/outDebug",
+      "MIMode": "gdb"
+    }
+  ]
+}
